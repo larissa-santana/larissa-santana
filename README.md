@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-Analista de Dados Júnior com experiência em coleta, análise e interpretação de dados de
+Analista de Dados com experiência em coleta, análise e interpretação de dados de
 múltiplas fontes. Habilidades em criação de painéis de controle e relatórios utilizando
 ferramentas como Power BI, Qlik Sense e Excel. Também com conhecimentos em gestão
 de tráfego pago, redes sociais e análise de desempenho. Conquistou habilidades
